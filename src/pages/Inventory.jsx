@@ -21,7 +21,6 @@ import {
 import {
   Add,
   Search,
-  Inventory as InventoryIcon,
 } from "@mui/icons-material";
 
 import { useApp } from "../contexts/AppContext";
