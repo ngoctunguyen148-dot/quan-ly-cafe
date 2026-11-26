@@ -22,7 +22,7 @@ import Inventory2OutlinedIcon from "@mui/icons-material/Inventory2Outlined";
 import PeopleAltOutlinedIcon from "@mui/icons-material/PeopleAltOutlined";
 import TrendingUpIcon from "@mui/icons-material/TrendingUp";
 import LocalCafeOutlinedIcon from "@mui/icons-material/LocalCafeOutlined";
-import ArrowForwardIcon from "@mui/icons-material/ArrowForward";
+
 
 import {
   ResponsiveContainer,
