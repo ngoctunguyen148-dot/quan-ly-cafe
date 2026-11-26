@@ -35,7 +35,6 @@ function Orders() {
   const {
     orders,
     setOrders,
-    products,
     setProducts,
   } = useApp();
 
