@@ -13,10 +13,6 @@ import Employees from "./pages/Employees";
 import Reports from "./pages/Reports";
 import Settings from "./pages/Settings";
 
-function Placeholder({ title }) {
-  return <h2>{title} - Đang xây dựng</h2>;
-}
-
 function App() {
   return (
     <BrowserRouter>
